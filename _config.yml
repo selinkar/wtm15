@@ -10,7 +10,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmakers Istanbul 2015"
+title: "Women Techmakers Istanbul 2016"
 email: "wtm@gdgistanbul.com"
 description: "Women Techmakers is a set of event about Women in technology"
 baseurl: ""
@@ -52,14 +52,14 @@ navigationLinks:
  - {permalink: "/startup/", text: "Startup Launch"}
  - {permalink: "http://wtm14.devfesttr.com/", text: "DevFestW'14"}
 bottomNavigationLinks:
- - {link: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul16.eventbrite.com/", text: "Kayıt Ol"}
 rightNavigationButtons:
- - {link: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul16.eventbrite.com/", text: "Kayıt Ol"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "WTM Istanbul 2015"
-eventDate: "15 March, 2015"
+heroTitle: "WTM Istanbul 2016"
+eventDate: "03 April, 2016"
 typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
@@ -76,8 +76,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "700", specialCharacter: "+", info: "katılımcı", detail: "kadın ve erkek"}
- - {count: "52", specialCharacter: "+", info: "konuşmacı", detail: "1 Google çalışanı haricinde hepsi kadın"}
+ - {count: "392", specialCharacter: "+", info: "katılımcı", detail: "kadın ve erkek"}
+ - {count: "59", specialCharacter: "+", info: "konuşmacı", detail: "hepsi kadın"}
  - {count: "4", specialCharacter: "", info: "paralel oturum", detail: "ve çalıştaylar"}
 
 # Latest News Block
@@ -98,9 +98,9 @@ eventAddressLocality: "Istanbul"
 eventAddressLocalityRegion: ""
 eventPostalCode: ""
 eventAddressCountry: "Türkiye"
-eventStartTime: "2015-03-15T09:00"
+eventStartTime: "2016-04-03T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2015-03-15T17:30"
+eventEndTime: "2016-04-03T17:30"
 eventPlaceCoordinates: "41.041994, 29.009049"
 mapCenterCoordinates: "41.041994, 29.009049"
 mapMobileCenterCoordinates: "41.041994, 29.009049"
